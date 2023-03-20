@@ -1,7 +1,7 @@
 # nosql-challenge
 
 
-Part 1: Database and Jupyter Notebook Set Up
+*** Part 1: Database and Jupyter Notebook Set Up
 
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
@@ -20,7 +20,7 @@ Use NoSQL_setup_starter.ipynb for this section of the challenge.
 5)Assign the establishments collection to a variable to prepare the collection for use.
 
 
-Part 2: Update the Database
+*** Part 2: Update the Database
 
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
@@ -37,7 +37,7 @@ The magazine editors have some requested modifications for the database before y
 5) Some of the number values are stored as strings, when they should be stored as numbers. Use update_many to convert latitude and longitude to decimal numbers.
 
 
-Part 3: Exploratory Analysis
+*** Part 3: Exploratory Analysis
 
 
 Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
