@@ -1,5 +1,7 @@
 # nosql-challenge
 
+![image](https://user-images.githubusercontent.com/118692087/226230702-f35048eb-699b-432f-bfe6-47b9c21e163c.png)
+
 
 *** Part 1: Database and Jupyter Notebook Set Up
 
